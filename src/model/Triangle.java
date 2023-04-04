@@ -1,9 +1,11 @@
-package model;
 /**
  * Drawable meta-triangle consisting of 3 dots.
  * Has a positive or negative normal vector depending on the direction of rotation of the dots,
- * @see Dot
+ * @see model.Dot
  */
+
+package model;
+
 public class Triangle {
 
     Dot a;

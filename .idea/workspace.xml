@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4b2faf-50fb-45c4-bc76-763dc2daccd4" name="Changes" comment="Add core classes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/OOA-2023-04-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/OOA-2023-04-03.uxf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/OOD-2023-04-03.uxf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/OOD-2023-04-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/OOD-2023-04-04.uxf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Vector.java" afterDir="false" />
+    <list default="true" id="ee4b2faf-50fb-45c4-bc76-763dc2daccd4" name="Changes" comment="Add UML diagrams to documentation">
+      <change afterPath="$PROJECT_DIR$/src/controller/GeoHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Pyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Dot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Dot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Dot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Vector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +63,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680510235433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add UML diagrams to documentation">
+      <created>1680607795557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680607795557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add core classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add core classes" />
+    <MESSAGE value="Add UML diagrams to documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add UML diagrams to documentation" />
   </component>
 </project>
