@@ -10,14 +10,14 @@ import controller.GeoHelper;
 
 public class Dot {
 
-    double x;
-    double y;
-    double z;
+    private double x;
+    private double y;
+    private double z;
 
     // Translate coordinates from double to int for drawing.
-    int transX;
-    int transY;
-    int transZ;
+    private int transX;
+    private int transY;
+    private int transZ;
 
     /**
      * Create a dot in R² with x, y and z coordinates.
