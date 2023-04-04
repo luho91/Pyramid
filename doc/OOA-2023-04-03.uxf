@@ -1,0 +1,32 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>130</x><y>60</y><w>100</w><h>130</h></coordinates><panel_attributes>*model.Dot*
+--
+x
+y
+z
+transX
+transY
+transZ</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>60</y><w>110</w><h>160</h></coordinates><panel_attributes>*model.Triangle*
+--
+a
+b
+c
+alpha
+beta
+gamma
+normalVector
+nvFacedToViewer</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>130</x><y>270</y><w>100</w><h>80</h></coordinates><panel_attributes>*model.Vector*
+--
+x
+y
+z</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>220</x><y>110</y><w>210</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=3
+m2=*</panel_attributes><additional_attributes>10;10;190;10</additional_attributes></element><element><id>Relation</id><coordinates><x>220</x><y>210</y><w>280</w><h>140</h></coordinates><panel_attributes>lt=&lt;-
+m1=1
+m2=*</panel_attributes><additional_attributes>10;110;250;110;250;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>640</x><y>70</y><w>100</w><h>100</h></coordinates><panel_attributes>*Pyramid*
+--
+a
+b 
+c 
+d </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>510</x><y>110</y><w>150</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=4
+m2=*</panel_attributes><additional_attributes>10;10;130;10</additional_attributes></element></diagram>

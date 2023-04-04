@@ -1,0 +1,26 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>110</x><y>210</y><w>230</w><h>450</h></coordinates><panel_attributes>*Dot*
+--
+- x: double
+- y: double
+- z: double
+- transX: int
+- transY: int
+- transZ: double
+--
++ Dot(double, double, double): void
+
++ getX(): double
++ getY(): double
++ getZ(): double
++ getTransX(): int
++ getTransY(): int
++ getTransZ(): int
+
++ setX(double): void
++ setY(double): void
++ setZ(double): void
+- setTransX(int): void
+- setTransY(int): void
+- setTransZ(int): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>110</x><y>40</y><w>200</w><h>70</h></coordinates><panel_attributes>*DrawingHelper*
+--
+_+ doubleToInt(double): int_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>100</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;10;10;110</additional_attributes></element></diagram>

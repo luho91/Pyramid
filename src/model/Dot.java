@@ -1,3 +1,5 @@
+package model;
+
 /**
  * Drawable dot in R². Has double and int coordinates.
  * The double value is for calculations.
@@ -8,16 +10,16 @@ public class Dot {
     double x;
     double y;
     double z;
+
+    // Translate coordinates from double to int for drawing.
     /*
     int transX;
     int transY;
     int transZ;*/
 
-    public Dot (double myX, double myY, double myZ) {
-        this.x = myX;
-        this.y = myY;
-        this.z = myZ;
-
-        // this.transX =
+    public Dot (double x, double y, double z) {
+        this.x = x;
+        this.y = y;
+        this.z = z;
     }
 }
