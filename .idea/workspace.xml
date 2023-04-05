@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4b2faf-50fb-45c4-bc76-763dc2daccd4" name="Changes" comment="Add helper class and finalize dot model">
+    <list default="true" id="ee4b2faf-50fb-45c4-bc76-763dc2daccd4" name="Changes" comment="Finalize vector model and add visibilities for class attributes">
+      <change afterPath="$PROJECT_DIR$/src/controller/MathHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Dot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Dot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Vector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680618958599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finalize vector model and add visibilities for class attributes">
+      <created>1680619659915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680619659915</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -82,6 +90,7 @@
     <MESSAGE value="Add core classes" />
     <MESSAGE value="Add UML diagrams to documentation" />
     <MESSAGE value="Add helper class and finalize dot model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add helper class and finalize dot model" />
+    <MESSAGE value="Finalize vector model and add visibilities for class attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalize vector model and add visibilities for class attributes" />
   </component>
 </project>
